@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+@import "tailwindcss";
+
+
+@theme {
+    --font-Raleway : "Raleway";
+    --color-mygray: #262626;
+    --breakpoint-mytablet: 992px;
+    --shadow-myshadow: 6px 6px 2px #1e1e1e;
+    --spacing-60 : 60px
+}
+
+@font-face {
+    font-family: Outfit;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    src: url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+
+}
+
